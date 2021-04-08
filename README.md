@@ -23,7 +23,7 @@ Aplicativo no qual tem como objetivo fixar os conhecimentos adquiridos no módul
   <img alt="Home" title="Home" src="img/home.jpg" width=230/>
 </h1>
 
-Mais informaçoes e visualização de um vídeo no qual mostra o aplicativo funcionando, pode ser encontrado neste [link](https://www.linkedin.com/in/williandsmedeiros/) na minha conta no LinkedIn.
+Mais informaçoes e visualização de um vídeo no qual mostra o aplicativo funcionando, pode ser encontrado neste [link](https://www.linkedin.com/posts/williandsmedeiros_sujeitoprogramador-mobile-mobileappdevelopment-activity-6785780227327975424-Y9-z) da publicação na minha conta no LinkedIn.
 <br>
 ## 🚀 Tecnologias e bibliotecas
 
